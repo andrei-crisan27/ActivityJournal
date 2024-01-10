@@ -1,6 +1,6 @@
 My Activity Journal - a mobile app that allows the user to track all the events that he/she participated to.
 
-Short description - "My Activity Journal" is built to simulate a digital diary in which a person can keep details about memorable moments in their lives. A simple and friendly mobile app, it helps the user to keep a detailed list of activities in which he took part. The user can easily add the activity name, what it was about, when it happened, where it happened, and even his thoughts about it. Whether it's a fun dinner with friends, a work meeting, a party, or an exciting adventure, "My Activity Journal" lets you keep a record of those.
+"My Activity Journal" is built to simulate a digital diary in which a person can keep details about memorable moments in their lives. A simple and friendly mobile app, it helps the user to keep a detailed list of activities in which he took part. The user can easily add the activity name, what it was about, when it happened, where it happened, and even his thoughts about it. Whether it's a fun dinner with friends, a work meeting, a party, or an exciting adventure, "My Activity Journal" lets you keep a record of those.
 
 Domain details - The main idea of the app is to store different activities, so the entity to be persisted is called "Activity" and has the following fields:
 Name: The name or title of the activity, for example "John's Birthday Party"
